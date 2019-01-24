@@ -1,4 +1,4 @@
-### Made by [almokhtar bekkour]
+
 
 Complete CMS for blog built with laravel and uikit ,it open source so if any one have any changes just send me the request.
 Happy coding
